@@ -1,0 +1,10 @@
+# 只发布这两个 skill —— 其余（别人写的 skill、__pycache__ 等）一概不进库
+/*
+!/doc-format/
+!/doc-paper/
+!/README.md
+!/LICENSE
+!/.gitignore
+!/.gitattributes
+__pycache__/
+*.pyc

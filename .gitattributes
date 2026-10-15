@@ -1,0 +1,2 @@
+# 仓库里统一存 LF（Windows 检出时由 git 自行处理）
+* text=auto eol=lf
