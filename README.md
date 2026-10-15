@@ -1,6 +1,6 @@
 # doc-format-skills
 
-把 **Markdown 源稿生成排版规范的中文 Word 文档（.docx）**的两个 Claude Code skill。
+把 Markdown 源稿生成排版规范的中文 Word 文档（.docx）的两个 Claude Code skill。
 排版在生成时就写进 XML，不做「先生成再回头修」——真标题样式、三线表、分节符、
 页码分区、公式对象，都是直接写进 `.docx` 的。
 
